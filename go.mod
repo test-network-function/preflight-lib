@@ -14,7 +14,6 @@ require (
 	github.com/operator-framework/api v0.16.0
 	github.com/operator-framework/operator-manifest-tools v0.2.1
 	github.com/redhat-openshift-ecosystem/ocp-olm-catalog-validator v0.1.0
-	github.com/redhat-openshift-ecosystem/openshift-preflight v0.0.0-20220923145030-82aca791eaab
 	github.com/sirupsen/logrus v1.8.1
 	k8s.io/api v0.24.0
 	k8s.io/apimachinery v0.24.0
