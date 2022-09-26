@@ -14,7 +14,11 @@ require (
 	github.com/operator-framework/api v0.16.0
 	github.com/operator-framework/operator-manifest-tools v0.2.1
 	github.com/redhat-openshift-ecosystem/ocp-olm-catalog-validator v0.1.0
-	github.com/sirupsen/logrus v1.8.1
+	github.com/shurcooL/graphql v0.0.0-20220606043923-3cf50f8a0a29
+	github.com/sirupsen/logrus v1.9.0
+	github.com/spf13/afero v1.9.2
+	github.com/spf13/viper v1.12.0
+	gotest.tools/v3 v3.0.3
 	k8s.io/api v0.24.0
 	k8s.io/apimachinery v0.24.0
 	sigs.k8s.io/controller-runtime v0.12.1
@@ -76,13 +80,10 @@ require (
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.32.1 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
-	github.com/shurcooL/graphql v0.0.0-20220606043923-3cf50f8a0a29 // indirect
-	github.com/spf13/afero v1.9.2 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/spf13/cobra v1.5.0 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/spf13/viper v1.12.0 // indirect
 	github.com/stoewer/go-strcase v1.2.0 // indirect
 	github.com/stretchr/testify v1.7.1 // indirect
 	github.com/subosito/gotenv v1.3.0 // indirect
