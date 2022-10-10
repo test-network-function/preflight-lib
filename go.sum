@@ -711,8 +711,8 @@ github.com/quasilyte/go-ruleguard/rules v0.0.0-20210428214800-545e0d2e0bf7/go.mo
 github.com/quasilyte/regex/syntax v0.0.0-20200407221936-30656e2c4a95/go.mod h1:rlzQ04UMyJXu/aOvhd8qT+hvDrFpiwqp8MRXDY9szc0=
 github.com/redhat-openshift-ecosystem/ocp-olm-catalog-validator v0.1.0 h1:4EHstmf5aq2aalaQwb4Fila8GJeDd+O3A6ASC70fQio=
 github.com/redhat-openshift-ecosystem/ocp-olm-catalog-validator v0.1.0/go.mod h1:GfYbSrt58GvB8zQlTIaSAMx7d9uAJGnXLDggRqw7C3s=
-github.com/redhat-openshift-ecosystem/openshift-preflight v0.0.0-20220923145030-82aca791eaab h1:SG1w8+ToGUPP1sajAF16CgprUNerHTcbRZZDE/OV2hk=
-github.com/redhat-openshift-ecosystem/openshift-preflight v0.0.0-20220923145030-82aca791eaab/go.mod h1:27jD4Oh4MP7PyffyB3VNH8Eo68AG/Km8UvbUqAIe8Y8=
+github.com/redhat-openshift-ecosystem/openshift-preflight v0.0.0-20221005161252-deb07cf2194c h1:TxagqKu0IBXcm/3JcuqF0bLNhXb61yyzZVDTGPLSMDQ=
+github.com/redhat-openshift-ecosystem/openshift-preflight v0.0.0-20221005161252-deb07cf2194c/go.mod h1:27jD4Oh4MP7PyffyB3VNH8Eo68AG/Km8UvbUqAIe8Y8=
 github.com/rogpeppe/fastuuid v0.0.0-20150106093220-6724a57986af/go.mod h1:XWv6SoW27p1b0cqNHllgS5HIMJraePCO15w5zCzIWYg=
 github.com/rogpeppe/fastuuid v1.2.0/go.mod h1:jVj6XXZzXRy/MSR5jhDC/2q6DgLz+nrA6LYCDYWNEvQ=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
@@ -1453,8 +1453,8 @@ gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776/go.mod h1:K4uyk7z7BCEPqu6E+C
 gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
-gotest.tools/v3 v3.3.0 h1:MfDY1b1/0xN1CyMlQDac0ziEy9zJQd9CXBRRDHw2jJo=
-gotest.tools/v3 v3.3.0/go.mod h1:Mcr9QNxkg0uMvy/YElmo4SpXgJKWgQvYrT7Kw5RzJ1A=
+gotest.tools/v3 v3.4.0 h1:ZazjZUfuVeZGLAmlKKuyv3IKP5orXcwtOwDQH6YVr6o=
+gotest.tools/v3 v3.4.0/go.mod h1:CtbdzLSsqVhDgMtKsx03ird5YTGB3ar27v0u/yKBW5g=
 honnef.co/go/tools v0.0.0-20190102054323-c2f93a96b099/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 honnef.co/go/tools v0.0.0-20190106161140-3f1c8253044a/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 honnef.co/go/tools v0.0.0-20190418001031-e561f6794a2a/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
