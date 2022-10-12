@@ -7,8 +7,8 @@ require (
 	github.com/docker/cli v20.10.18+incompatible
 	github.com/google/go-containerregistry v0.11.0
 	github.com/knqyf263/go-rpmdb v0.0.0-20220629110411-9a3bd2ebb923
-	github.com/onsi/ginkgo/v2 v2.2.0
-	github.com/onsi/gomega v1.20.2
+	github.com/onsi/ginkgo/v2 v2.3.0
+	github.com/onsi/gomega v1.22.1
 	github.com/openshift/api v0.0.0-20220927104020-5c852b3c3cd6
 	github.com/openshift/client-go v0.0.0-20210521082421-73d9475a9142
 	github.com/operator-framework/api v0.16.0
